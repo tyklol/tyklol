@@ -22,7 +22,7 @@ Outside of code I'm usually speedcubing, playing badminton or editing videos.
 
 Currently looking for a 12-month software engineering internship from **May 2027 to Apr 2028**.
 
-> 🤖 **Current workflow:** Powered by coffee, strict compiler flags, and an unhealthy emotional bond with Claude Code in the terminal.
+> 🤖 **Current workflow:** Powered by coffee, strict compiler flags, and an unhealthy emotional bond with [Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) in the terminal.
 
 ---
 
